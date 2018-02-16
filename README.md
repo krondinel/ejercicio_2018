@@ -5,7 +5,7 @@ En este repositorio tenéis un programa que debéis modificar. Debéis crear un 
 
 El ejercicio consiste en descargaros los datos de una especie desde la página de OBIS (http://www.iobis.org) y generando una página web con el mapa de la misma. Al abrirlo tenéis todas las partes que debéis completar (INSTRUCCION) y las que podéis modificar (MODIFICABLE) para cambiar los resultados del mapa final.
 
-Tenéis un mapa final de ejemplo de la especie 'Alcyonium palmatum'. Cada uno tendrá que elegir una especie diferente y modificar el mapa donde ésta se localice.
+Tenéis un mapa final (fichero index.html que podéis abrir desde cualquier navegador web) de ejemplo de la especie 'Alcyonium palmatum'. Cada uno tendrá que elegir una especie diferente y modificar el mapa donde ésta se localice.
 
 Se valorará:
 
