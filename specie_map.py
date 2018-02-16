@@ -10,11 +10,11 @@ import folium
 specie = 
 
 # Lectura de latitud y longitud de las observaciones
-lon, lat = specie['longitude'], specie['latitude']
+lon, lat = specie['decimalLongitude'], specie['decimalLatitude']
 
 # MODIFICABLE
 # Lectura de datos adicionales (se deben convertir a cadena para visualizarlos)
-dates = specie['datecollected'].astype('str')
+dates = specie['eventDate'].astype('str')
 
 # MODIFICABLE
 # Opciones de visualizacion de la especie
