@@ -1,7 +1,7 @@
 Ejercicio Ecoinformática 2018
 ===============
 
-En este repositorio tenéis un programa que debéis modificar. Debéis crear un repositorio y copiar el fichero ejercicio.py en él y completarlo.
+En este repositorio tenéis un programa que debéis modificar. Debéis crear un repositorio y copiar el fichero specie_map.py en él y completarlo.
 
 El ejercicio consiste en descargaros los datos de una especie desde la página de OBIS (http://www.iobis.org) y generando una página web con el mapa de la misma. Al abrirlo tenéis todas las partes que debéis completar (INSTRUCCION) y las que podéis modificar (MODIFICABLE) para cambiar los resultados del mapa final.
 

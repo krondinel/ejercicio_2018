@@ -23,7 +23,7 @@ dates = specie['datecollected'].astype('str')
 m = folium.Map(location=[50, 10], zoom_start=4, tiles='Stamen Watercolor')
 
 # Creacion del conjunto de puntos
-feature_group = folium.FeatureGroup("Locations")
+feature_group = folium.FeatureGroup('Ocurrences')
 
 # MODIFICABLE
 for lon, lat, date in zip(lon, lat, dates):
